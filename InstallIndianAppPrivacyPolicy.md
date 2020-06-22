@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Notes Privacy Policy</title>
+</head>
+<body>
+
+<div><h1 align='center'>THE GAME CHANGER PRIVACY POLICY<h1></div>
+<div><h3 align='center'>June 22, 2020<h3></div>
+<div><p>
+Thank you for choosing to be part of our community at The Game Changer. We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our notice, or our practices with regards to your personal information, please contact us at donthegamechanger@gmail.com.
+
+When you visit our mobile application, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Apps and our services.
+
+This privacy notice applies to all information collected through our mobile application, ("Apps"), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy notice as the "Services").
+</p>
+<h4>We are nothing collected from you.<h4>
+</div>
+</body>
+</html>
