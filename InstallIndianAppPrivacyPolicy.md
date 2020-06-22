@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Notes Privacy Policy</title>
 </head>
 <body>
 
